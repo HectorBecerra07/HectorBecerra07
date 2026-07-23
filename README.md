@@ -1,113 +1,136 @@
-<!-- ====== BANNER ====== -->
+<!-- ═══════════════════════════════ HEADER ═══════════════════════════════ -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hector%20Gabriel%20Becerra%20Rivera&fontColor=00ffea&fontSize=38&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Web%20Developer&descAlignY=58&descSize=18&descColor=a855f7" alt="banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,40:302b63,100:24243e&height=230&section=header&text=Hector%20Gabriel%20Becerra&fontColor=00ffea&fontSize=42&animation=fadeIn&fontAlignY=36&desc=%E2%9C%A6%20Full-Stack%20Web%20Developer%20%E2%9C%A6&descAlignY=56&descSize=20&descColor=a855f7" alt="header"/>
 
-<!-- ====== TYPING TEXT ====== -->
+<!-- Typing effect -->
 <a href="https://github.com/HectorBecerra07">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FFEA&center=true&vCenter=true&width=600&lines=%3C+Desarrollador+Web+Full-Stack+%2F%3E;Front-End+%2B+Back-End;Convirtiendo+ideas+en+c%C3%B3digo;Siempre+aprendiendo+algo+nuevo" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00FFEA&center=true&vCenter=true&width=650&height=60&lines=%3C+Full-Stack+Web+Developer+%2F%3E;Front-End+%2B+Back-End+%2B+DB;Convirtiendo+ideas+en+c%C3%B3digo+%E2%9A%A1;Menos+hablar%2C+m%C3%A1s+construir+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
-<!-- ====== PROFILE VIEWS + FOLLOWERS ====== -->
-<p>
-  <img src="https://komarev.com/ghpvc/?username=HectorBecerra07&label=Visitas%20al%20perfil&color=00ffea&style=flat-square" alt="profile views" />
-  <a href="https://github.com/HectorBecerra07?tab=followers">
-    <img src="https://img.shields.io/github/followers/HectorBecerra07?label=Seguidores&style=flat-square&color=a855f7&labelColor=1a1b27" alt="followers" />
-  </a>
-</p>
+<br/>
+
+<!-- Badges de estado -->
+<img src="https://komarev.com/ghpvc/?username=HectorBecerra07&label=Visitas&color=00ffea&style=for-the-badge&labelColor=0d1117" alt="views" />
+<a href="https://github.com/HectorBecerra07?tab=followers">
+  <img src="https://img.shields.io/github/followers/HectorBecerra07?label=Seguidores&style=for-the-badge&color=a855f7&labelColor=0d1117" alt="followers" />
+</a>
+<img src="https://img.shields.io/badge/Focus-Full--Stack-00ffea?style=for-the-badge&labelColor=0d1117" alt="focus" />
 
 </div>
 
-<!-- ====== SOBRE MÍ ====== -->
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Sobre mí
+<!-- Línea divisoria -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
+
+<!-- ═══════════════════════════════ SOBRE MÍ ═══════════════════════════════ -->
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32"> &nbsp;Sobre mí
+
+<img align="right" width="330" src="https://cdn.pixabay.com/animation/2023/03/16/12/32/12-32-40-902_512.gif" alt="coding gif"/>
 
 ```typescript
 const hector = {
-  nombre: "Hector Gabriel Becerra Rivera",
-  rol: "Desarrollador Web Full-Stack",
-  ubicacion: "🌎",
-  stack: ["Front-End", "Back-End", "Bases de Datos"],
-  aprendiendo: ["Nuevas tecnologías cada día ⚡"],
-  mentalidad: "Menos hablar, más construir 🚀",
+  nombre:      "Hector Gabriel Becerra Rivera",
+  rol:         "Full-Stack Web Developer",
+  ubicacion:   "🌎 Mexico",
+  stack:       ["Front-End", "Back-End", "Databases"],
+  herramientas:["React", "Node.js", "TypeScript"],
+  aprendiendo: "Algo nuevo cada día ⚡",
+  lema:        "Menos hablar, más construir 🚀",
 };
 ```
 
-- 🔭 Trabajando en proyectos web **full-stack**
-- 🌱 Siempre mejorando en front-end y back-end
-- 💬 Pregúntame sobre **desarrollo web**
-- ⚡ Dato: el mejor código es el que se entiende
+<div align="left">
 
-<br clear="both"/>
-
-<!-- ====== TECNOLOGÍAS ====== -->
-## 🛠️ Tecnologías & Herramientas
-
-<div align="center">
-
-### Front-End
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-### Back-End
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### Bases de Datos
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### Herramientas
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+- 🔭 &nbsp;Construyendo aplicaciones web **full-stack**
+- 🌱 &nbsp;Mejorando siempre en **front-end** y **back-end**
+- 💬 &nbsp;Pregúntame sobre **desarrollo web**
+- ⚡ &nbsp;Dato: el mejor código es el que se entiende
 
 </div>
 
-> 💡 *Quita o agrega badges según lo que realmente uses. Busca más en [shields.io](https://shields.io) y [simpleicons.org](https://simpleicons.org).*
-
 <br clear="both"/>
 
-<!-- ====== ESTADÍSTICAS ====== -->
-## 📊 Estadísticas de GitHub
+<!-- Línea divisoria -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+
+<!-- ═══════════════════════════════ TECNOLOGÍAS ═══════════════════════════════ -->
+## 🛠️ &nbsp;Mi Stack Tecnológico
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=HectorBecerra07&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ffea&icon_color=a855f7&text_color=c9d1d9" alt="stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HectorBecerra07&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffea&text_color=c9d1d9" alt="top langs" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind&theme=dark&perline=6" alt="frontend" />
 
-<br/>
+**⬆️ Front-End**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,php,python,mysql,mongodb&theme=dark&perline=6" alt="backend" />
+
+**⬆️ Back-End & Databases**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker,postman&theme=dark&perline=6" alt="tools" />
+
+**⬆️ Herramientas**
+
+</div>
+
+<!-- Línea divisoria -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
+
+<!-- ═══════════════════════════════ ESTADÍSTICAS ═══════════════════════════════ -->
+## 📊 &nbsp;Estadísticas de GitHub
+
+<div align="center">
+
+<img height="185em" src="https://github-readme-stats.vercel.app/api?username=HectorBecerra07&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ffea&icon_color=a855f7&text_color=c9d1d9" alt="stats" />
+<img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HectorBecerra07&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffea&text_color=c9d1d9" alt="top langs" />
+
+<br/><br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=HectorBecerra07&theme=tokyonight&hide_border=true&background=0D1117&stroke=00ffea&ring=a855f7&fire=00ffea&currStreakLabel=00ffea" alt="streak" />
 
 </div>
 
-<br clear="both"/>
+<br/>
 
-<!-- ====== TROFEOS ====== -->
-## 🏆 Trofeos
+### 📈 &nbsp;Actividad
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=HectorBecerra07&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="trophies" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=HectorBecerra07&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00ffea&line=a855f7&point=ffffff&area=true&area_color=302b63" alt="activity graph" />
 
 </div>
 
-<br clear="both"/>
+<!-- Línea divisoria -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
-<!-- ====== PROYECTOS DESTACADOS ====== -->
-## 🚀 Proyectos Destacados
+<!-- ═══════════════════════════════ SNAKE ═══════════════════════════════ -->
+## 🐍 &nbsp;Serpiente de Contribuciones
 
 <div align="center">
 
-<!-- Cambia estos nombres por los repos que quieras destacar en cualquier momento -->
+<img width="100%" src="https://raw.githubusercontent.com/HectorBecerra07/HectorBecerra07/output/github-snake-dark.svg" alt="snake animation" />
+
+</div>
+
+<!-- Línea divisoria -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
+
+<!-- ═══════════════════════════════ TROFEOS ═══════════════════════════════ -->
+## 🏆 &nbsp;Trofeos
+
+<div align="center">
+
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=HectorBecerra07&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="trophies" />
+
+</div>
+
+<!-- Línea divisoria -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+
+<!-- ═══════════════════════════════ PROYECTOS ═══════════════════════════════ -->
+## 🚀 &nbsp;Proyectos Destacados
+
+<div align="center">
+
 <a href="https://github.com/HectorBecerra07/tu-agencia">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=HectorBecerra07&repo=tu-agencia&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffea&icon_color=a855f7" alt="tu-agencia" />
 </a>
@@ -117,10 +140,11 @@ const hector = {
 
 </div>
 
-<br clear="both"/>
+<!-- Línea divisoria -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
 
-<!-- ====== CONTACTO / REDES ====== -->
-## 🌐 Conéctate conmigo
+<!-- ═══════════════════════════════ CONTACTO ═══════════════════════════════ -->
+## 🌐 &nbsp;Conéctate conmigo
 
 <div align="center">
 
@@ -129,17 +153,15 @@ const hector = {
 
 <!-- ¿Tienes LinkedIn, Instagram, Discord o X? Pásame los links y agrego sus botones aquí. -->
 
-
-
 </div>
 
 <br/>
 
-<!-- ====== FRASE FINAL ====== -->
+<!-- ═══════════════════════════════ FOOTER ═══════════════════════════════ -->
 <div align="center">
 
 ### ✨ *"El código es como el humor. Cuando tienes que explicarlo, es malo."* ✨
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" alt="footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,60:302b63,100:0f0c29&height=140&section=footer&text=Gracias%20por%20visitar!&fontColor=00ffea&fontSize=20&fontAlignY=68" alt="footer"/>
 
 </div>
