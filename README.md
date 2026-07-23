@@ -107,17 +107,15 @@ const hector = {
 
 <div align="center">
 
-<!-- Reemplaza REPO_1, REPO_2, etc. por los nombres reales de tus repositorios -->
-<a href="https://github.com/HectorBecerra07/REPO_1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=HectorBecerra07&repo=REPO_1&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffea&icon_color=a855f7" alt="repo 1" />
+<!-- Cambia estos nombres por los repos que quieras destacar en cualquier momento -->
+<a href="https://github.com/HectorBecerra07/tu-agencia">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=HectorBecerra07&repo=tu-agencia&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffea&icon_color=a855f7" alt="tu-agencia" />
 </a>
-<a href="https://github.com/HectorBecerra07/REPO_2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=HectorBecerra07&repo=REPO_2&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffea&icon_color=a855f7" alt="repo 2" />
+<a href="https://github.com/HectorBecerra07/sistemadetareas">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=HectorBecerra07&repo=sistemadetareas&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffea&icon_color=a855f7" alt="sistemadetareas" />
 </a>
 
 </div>
-
-> 💡 *Cambia `REPO_1` y `REPO_2` por los nombres exactos de tus repos que quieras mostrar.*
 
 <br clear="both"/>
 
@@ -126,12 +124,12 @@ const hector = {
 
 <div align="center">
 
-<!-- Rellena las URLs entre paréntesis con tus enlaces reales -->
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rivehect40@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](#)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](#)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HectorBecerra07)
+
+<!-- ¿Tienes LinkedIn, Instagram, Discord o X? Pásame los links y agrego sus botones aquí. -->
+
+
 
 </div>
 
